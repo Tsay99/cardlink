@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Бикбаев;Каримжан;;;
+FN:Каримжан Бикбаев
+ORG:Engineering Services
+TITLE:CEO
+
+TEL;TYPE=CELL:+77715051980
+
+EMAIL;TYPE=Почта:bikbaev_k@eng-services.kz
+
+URL;TYPE=Сайт:https://eserv.kz/
+URL;TYPE=Instagram:https://instagram.com/kn_bikbaev
+URL;TYPE=WhatsApp:https://wa.me/77715051980
+
+NOTE:Здравствуйте! Рад знакомству. Я Каримжан, CEO Engineering Services. Наша компания предоставляет комплексные инженерные услуги в строительстве, обеспечивая контроль качества, сроков и бюджета проектов на всех этапах.
+
+END:VCARD
